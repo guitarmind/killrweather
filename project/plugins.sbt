@@ -10,3 +10,8 @@ addSbtPlugin("com.scalapenos" % "sbt-prompt" % "0.2.1")
 // For Intellij users of older versions:
 // This might already be in ~/.sbt.. for Scala users
 addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.6.0")
+
+// markpeng - for eclipse
+addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "4.0.0")
+
+
